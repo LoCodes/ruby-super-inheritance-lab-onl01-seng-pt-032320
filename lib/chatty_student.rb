@@ -5,6 +5,5 @@
 #     returns the phrase 'Pick me!' ten times. (FAILED - 2)
 
 class ChattyStudent < Student
-  def hello
-  end
+
 end
